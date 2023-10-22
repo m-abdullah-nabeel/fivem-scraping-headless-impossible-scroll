@@ -1,0 +1,7 @@
+Awesome!!! Okay yeah the to-do list now are:- 
+
+Search function (by keywords, language (already done), by Tags, and search by Relevant section, 
+headless function (i hope you have done that already), 
+finally search by custom seever names (for example when you give it to scrape example "kccpt").
+
+
